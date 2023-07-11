@@ -1,2 +1,2 @@
-# Capstone-Project-1
+# J.C Resume
 An online resume 2023
